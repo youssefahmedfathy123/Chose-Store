@@ -1,2 +1,2 @@
-# Chose-Store
-Chose Store
+# Clothes-store
+Clothes store
